@@ -121,6 +121,8 @@ section .content {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    font-size:1em;
+    text-align: center;
 }
 
 section .content .text {
